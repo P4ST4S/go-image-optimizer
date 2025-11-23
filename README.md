@@ -5,7 +5,7 @@ This project demonstrates Go's efficiency for CPU-bound tasks compared to Node.j
 
 ![Go](https://img.shields.io/badge/Go-1.25.4-00ADD8?style=flat&logo=go)
 ![Docker](https://img.shields.io/badge/Docker-Alpine-2496ED?style=flat&logo=docker)
-![Size](https://img.shields.io/badge/Image_Size-~18MB-success)
+![Size](https://img.shields.io/badge/Image_Size-~21MB-success)
 
 ## ⚡ Key Features
 
@@ -43,7 +43,7 @@ Test performed with **k6** (50 VUs, 2MB image uploads, 30s):
 | Throughput | ~50 req/sec (CPU-bound) |
 | Max Memory | Stable at ~250MB (thanks to semaphore) |
 | p95 Latency | < 1.5s |
-| Docker Image | 20.5 MB |
+| Docker Image | 21 MB |
 
 ## 📐 Code Architecture
 
