@@ -1,0 +1,6 @@
+.git
+bin
+*.jpg
+*.png
+README.md
+Dockerfile
