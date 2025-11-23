@@ -6,6 +6,7 @@ This project demonstrates Go's efficiency for CPU-bound tasks compared to Node.j
 ![Go](https://img.shields.io/badge/Go-1.25.4-00ADD8?style=flat&logo=go)
 ![Docker](https://img.shields.io/badge/Docker-Alpine-2496ED?style=flat&logo=docker)
 ![Size](https://img.shields.io/badge/Image_Size-~21MB-success)
+[![Build and Push](https://github.com/P4ST4S/go-image-optimizer/actions/workflows/docker-build.yml/badge.svg)](https://github.com/P4ST4S/go-image-optimizer/actions/workflows/docker-build.yml)
 
 ## ⚡ Key Features
 
